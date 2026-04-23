@@ -16,10 +16,6 @@
 &nbsp;&nbsp;
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 &nbsp;&nbsp;
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-&nbsp;&nbsp;
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-&nbsp;&nbsp;
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
 
 <br>
@@ -216,10 +212,6 @@ Smart-Waste-Management-Bin/
 ├── 📂 dashboard/
 │   ├── dashboard_v1.html               # Basic dashboard
 │   └── dashboard_v2.html               # Enhanced dashboard with charts
-│
-├── 📂 smart-waste/                       # 🌟 NEW React + Vite Dashboard
-│   ├── src/                            # Modern UI source code
-│   └── package.json                    # Dependencies
 │
 ├── 📂 docs/
 │   └── system_architecture.png         # Architecture diagram
@@ -462,30 +454,13 @@ The web dashboard parses these using regex to extract and display values.
 
 <br>
 
-### Dashboard V2 — `dashboard_v2.html` 
+### Dashboard V2 — `dashboard_v2.html` ⭐ Recommended
 
 - ✅ Everything in V1, plus:
 - ✅ Bar chart visualization (Chart.js)
 - ✅ Side-by-side layout (Serial Monitor + Chart)
 - ✅ Auto-resetting chart after 20 readings
 - ✅ Enhanced error handling
-
-<br>
-
-### Dashboard V3 (React App) — `smart-waste/` ⭐ New & Recommended
-
-- ✅ Fully modern React 18 + Vite Application
-- ✅ Tailwind CSS for premium responsive design
-- ✅ Custom `useSerialPort` React hook
-- ✅ Advanced state management & error boundaries
-- ✅ Polished data visualization and interactive components
-
-**To run the React Dashboard:**
-```bash
-cd smart-waste
-npm install
-npm run dev
-```
 
 <br>
 <br>
