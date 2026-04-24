@@ -70,7 +70,7 @@ An intelligent bin that:
 
 - 💧 **Analyzes** the moisture content of the waste to classify it as wet or dry
 
-- 🔄 **Sorts** the waste automatically into the correct compartment using servo motors
+- 🔄 **Sorts** the waste automatically into the correct compartment using servo motors.
 
 - 📊 **Monitors** sensor data in real-time through a web-based dashboard.
 
