@@ -532,7 +532,7 @@ The web dashboard parses these using regex to extract and display values.
 
 This project was built for a hackathon and is open for educational purposes.
 
-Feel free to fork, modify, and build upon it.
+Feel free to fork, modify, and build upon it..
 
 <br>
 <br>
