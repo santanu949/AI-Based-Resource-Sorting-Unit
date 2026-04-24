@@ -72,7 +72,7 @@ An intelligent bin that:
 
 - 🔄 **Sorts** the waste automatically into the correct compartment using servo motors
 
-- 📊 **Monitors** sensor data in real-time through a web-based dashboard
+- 📊 **Monitors** sensor data in real-time through a web-based dashboard.
 
 <br>
 <br>
