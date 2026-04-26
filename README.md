@@ -31,7 +31,7 @@
 <br>Member: **Sanchita V. Bhukta**<br>
 <br>
 
-*Built for Hackathon — Making waste disposal smarter, efficient, and sustainable* 🚀
+*Built for Hackathon  Making waste disposal smarter, efficient, and sustainable* 🚀
 
 <br>
 
