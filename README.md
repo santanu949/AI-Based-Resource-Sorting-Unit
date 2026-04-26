@@ -26,9 +26,9 @@
 <br>
 
 **Team No. 22** · Leader: **Sahil N. Mahale**
-Member: **Santanu B. Samanta**
-Member: **Ashutosh Patra**
-Member: **Sanchita V. Bhukta**
+<br>Member: **Santanu B. Samanta**<br>
+<br>Member: **Ashutosh Patra**<br>
+<br>Member: **Sanchita V. Bhukta**<br>
 <br>
 
 *Built for Hackathon — Making waste disposal smarter, efficient, and sustainable* 🚀
