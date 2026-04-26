@@ -25,7 +25,7 @@
 <br>
 <br>
 
-**Team No. 22** · Leader: **Sahil N. Mahale**
+**Team No. 22** · Leader: **Sahil N. Mahale**<br>
 <br>Member: **Santanu B. Samanta**<br>
 <br>Member: **Ashutosh Patra**<br>
 <br>Member: **Sanchita V. Bhukta**<br>
